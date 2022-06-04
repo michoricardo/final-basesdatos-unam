@@ -1,0 +1,9 @@
+/Users/micho/Documents/Proyecto UNAM BASES DE DATOS/proyecto-api/src/main/java/fca/unam/mx/resources/ProductsResource.java
+/Users/micho/Documents/Proyecto UNAM BASES DE DATOS/proyecto-api/src/main/java/fca/unam/mx/dao/StoreDao.java
+/Users/micho/Documents/Proyecto UNAM BASES DE DATOS/proyecto-api/src/main/java/fca/unam/mx/resources/ClientsResource.java
+/Users/micho/Documents/Proyecto UNAM BASES DE DATOS/proyecto-api/src/main/java/fca/unam/mx/dal/StoreDal.java
+/Users/micho/Documents/Proyecto UNAM BASES DE DATOS/proyecto-api/src/main/java/fca/unam/mx/dto/ProductDto.java
+/Users/micho/Documents/Proyecto UNAM BASES DE DATOS/proyecto-api/src/main/java/fca/unam/mx/dto/ResponseDto.java
+/Users/micho/Documents/Proyecto UNAM BASES DE DATOS/proyecto-api/src/main/java/fca/unam/mx/dto/ClientDto.java
+/Users/micho/Documents/Proyecto UNAM BASES DE DATOS/proyecto-api/src/main/java/fca/unam/mx/application/ApiApplication.java
+/Users/micho/Documents/Proyecto UNAM BASES DE DATOS/proyecto-api/src/main/java/fca/unam/mx/services/JdbiService.java
